@@ -4,5 +4,8 @@ class Main{
       System.out.println("Hey");
     System.out.println("everyone");
     System.out.println("good");
+    System.out.println("hey git");
+    System.out.println("guru");
+
     }
   }
